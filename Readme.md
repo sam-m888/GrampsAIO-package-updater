@@ -1,5 +1,5 @@
-GrampsAIO package updating
-==========================
+GrampsAIO package updater
+=========================
 
 **Gramps 4.2 and later.**
 
